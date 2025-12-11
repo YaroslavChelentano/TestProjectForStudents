@@ -11,3 +11,8 @@ Console.WriteLine(summa);
 
 
 // помножити два числа 3 і 4. Вивести результат на консоль
+int thirdNumber = 3;
+int fourthNumber = 4;
+
+int multiply = thirdNumber * fourthNumber;
+Console.WriteLine(multiply);
