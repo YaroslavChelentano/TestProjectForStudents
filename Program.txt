@@ -1,4 +1,10 @@
 public static double DivideTwoNumbers(double firstNumber, double secondNumber) 
 {
+	if (secondNumber == 0)
+		return 0;
 	return firstNumber / secondNumber;
 }
+
+if (secondNumber == 0)
+	Console.WriteLine("You cant divide by zero");
+DivideTwoNumbers(firstNumber, secondNumber);
