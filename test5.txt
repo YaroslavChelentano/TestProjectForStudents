@@ -7,7 +7,11 @@ Console.WriteLine(summa);
 
 
 // відняти два числа 10 і 2. Вивести результат на консоль
+int thirdNumber = 10;
+int fourthNumber = 2;
 
+int subtract = fourthNumber - thirdNumber;
+Console.WriteLine(subtract);
 
 
 // помножити два числа 3 і 4. Вивести результат на консоль
