@@ -1,1 +1,3 @@
-Hello World!
+// додати два числа 5 і 6. Вивести результат на консоль
+int firstNumber = 5;
+int secondNumber = 6;
