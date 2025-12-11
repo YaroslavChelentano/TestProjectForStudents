@@ -1,0 +1,4 @@
+public static double DivideTwoNumbers(double firstNumber, double secondNumber) 
+{
+	return firstNumber / secondNumber;
+}
